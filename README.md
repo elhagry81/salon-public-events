@@ -6,11 +6,11 @@ The website is the authority. This repository holds only what visitors can alrea
 ## Snapshot
 
 - schema_version: 1.0
-- snapshot_id: 20261125T183938Z-e666a21d
+- snapshot_id: 20261125T184352Z-e666a21d
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
-- source_generated_at: 2026-11-25T18:39:38Z
-- mirrored_at: 2026-11-25T18:39:38Z
-- stale_after: 2026-11-25T21:39:38Z
+- source_generated_at: 2026-11-25T18:43:52Z
+- mirrored_at: 2026-11-25T18:43:52Z
+- stale_after: 2026-11-25T21:43:52Z
 - total_published: 30
 - total_upcoming: 12
 - total_archive: 18
@@ -31,9 +31,12 @@ The website is the authority. This repository holds only what visitors can alrea
 
 - All events, plain text: https://raw.githubusercontent.com/elhagry81/salon-public-events/main/events.md
 - Upcoming events, plain text: https://raw.githubusercontent.com/elhagry81/salon-public-events/main/upcoming-events.md
+- Past and cancelled events, plain text: https://raw.githubusercontent.com/elhagry81/salon-public-events/main/archive-events.md
 - All events, JSON: https://raw.githubusercontent.com/elhagry81/salon-public-events/main/events.json
 - Upcoming events, JSON: https://raw.githubusercontent.com/elhagry81/salon-public-events/main/upcoming-events.json
 - `scripts/mirror.py` and `.github/workflows/mirror.yml`: the job
+
+`events.md` is long and some readers cut it. `upcoming-events.md` plus `archive-events.md` hold the same complete inventory in shorter files.
 
 The list below is a short form. The files above hold every public field of every event.
 
@@ -76,4 +79,4 @@ The list below is a short form. The files above hold every public field of every
 ## END OF INVENTORY
 
 - returned_count: 30
-- snapshot_id: 20261125T183938Z-e666a21d
+- snapshot_id: 20261125T184352Z-e666a21d

@@ -11,12 +11,12 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: events
 - scope: all
-- snapshot_id: 20261125T183938Z-e666a21d
+- snapshot_id: 20261125T184352Z-e666a21d
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-25T18:39:38Z
-- mirrored_at: 2026-11-25T18:39:38Z
-- stale_after: 2026-11-25T21:39:38Z
+- source_generated_at: 2026-11-25T18:43:52Z
+- mirrored_at: 2026-11-25T18:43:52Z
+- stale_after: 2026-11-25T21:43:52Z
 - timezone: Africa/Cairo
 - total_published: 30
 - total_upcoming: 12
@@ -994,4 +994,4 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - marker: END OF INVENTORY
 - returned_count: 30
 - last_event_id: 423
-- snapshot_id: 20261125T183938Z-e666a21d
+- snapshot_id: 20261125T184352Z-e666a21d
