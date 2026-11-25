@@ -1,0 +1,45 @@
+name: Mirror public events
+
+on:
+  schedule:
+    - cron: "43 * * * *"
+  workflow_dispatch:
+    inputs:
+      allow_drop:
+        description: "Accept a fall of more than 20% in records (only after checking the site)"
+        type: boolean
+        default: false
+
+permissions: {}
+
+concurrency:
+  group: mirror-public-events
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Fetch, validate and build the snapshot
+        env:
+          ALLOW_DROP: ${{ inputs.allow_drop || 'false' }}
+        run: python3 -I scripts/mirror.py
+      - name: Publish the snapshot in one commit
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git add -- README.md events.json events.md upcoming-events.json upcoming-events.md
+          if [ -n "$(git status --porcelain | grep -v '^[AM]  ' || true)" ]; then echo "unexpected change"; exit 1; fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -q -m "Snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          auth="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
+          echo "::add-mask::$auth"
+          git -c http.https://github.com/.extraheader="AUTHORIZATION: basic $auth" push -q origin HEAD:main
