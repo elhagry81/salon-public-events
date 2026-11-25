@@ -11,21 +11,21 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: events
 - scope: all
-- snapshot_id: 20261125T184352Z-e666a21d
+- snapshot_id: 20261125T200217Z-7098edc2
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-25T18:43:52Z
-- mirrored_at: 2026-11-25T18:43:52Z
-- stale_after: 2026-11-25T21:43:52Z
+- source_generated_at: 2026-11-25T20:02:16Z
+- mirrored_at: 2026-11-25T20:02:17Z
+- stale_after: 2026-11-25T23:02:17Z
 - timezone: Africa/Cairo
 - total_published: 30
-- total_upcoming: 12
-- total_archive: 18
+- total_upcoming: 11
+- total_archive: 19
 - returned_count: 30
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: e666a21d001c32acdcda6281bf9b8e95e6564367888b3f50c036803a76e1ae6c
+- records_sha256: 7098edc25e26fd96186b8414e855e61fc5ce22f472e730796682369ed2c13415
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
@@ -632,8 +632,8 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - listing: external
 - url: https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-klara-and-the-sun/
 - last_modified: 2026-11-10T19:33:18Z
-- status: ongoing
-- status_label: فعالية جارية الآن
+- status: ended
+- status_label: فعالية منتهية
 - cancelled: no
 - postponed: no
 
@@ -994,4 +994,4 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - marker: END OF INVENTORY
 - returned_count: 30
 - last_event_id: 423
-- snapshot_id: 20261125T184352Z-e666a21d
+- snapshot_id: 20261125T200217Z-7098edc2

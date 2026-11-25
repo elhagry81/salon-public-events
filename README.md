@@ -6,14 +6,14 @@ The website is the authority. This repository holds only what visitors can alrea
 ## Snapshot
 
 - schema_version: 1.0
-- snapshot_id: 20261125T184352Z-e666a21d
+- snapshot_id: 20261125T200217Z-7098edc2
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
-- source_generated_at: 2026-11-25T18:43:52Z
-- mirrored_at: 2026-11-25T18:43:52Z
-- stale_after: 2026-11-25T21:43:52Z
+- source_generated_at: 2026-11-25T20:02:16Z
+- mirrored_at: 2026-11-25T20:02:17Z
+- stale_after: 2026-11-25T23:02:17Z
 - total_published: 30
-- total_upcoming: 12
-- total_archive: 18
+- total_upcoming: 11
+- total_archive: 19
 - returned_count: 30
 - pagination_complete: yes
 
@@ -42,7 +42,6 @@ The list below is a short form. The files above hold every public field of every
 
 ## Upcoming and current events
 
-- ID 415 | 2026-11-25 19:00 to 21:00 | ongoing | مناقشة رواية Klara and the Sun | ديوان Majarrah – Block 12، محور 26 يوليو، الشيخ زايد | ديوان | https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-klara-and-the-sun/
 - ID 561 | 2026-11-25 19:00 | started | نادي كتاب طلال فيصل — مناقشة رواية «أن تكون عباس العبد» | ديوان الزمالك – 159 شارع 26 يوليو، الزمالك | ديوان | https://thesalonculture.com/salon-event/%d9%86%d8%a7%d8%af%d9%8a-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b7%d9%84%d8%a7%d9%84-%d9%81%d9%8a%d8%b5%d9%84-%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d9%86/
 - ID 416 | 2026-11-25 20:00 | started | لقاء نادي الكتاب — Cairo Social Club | المعادي (لم يُذكر العنوان التفصيلي في الإعلان الرسمي) | Cairo Social Club | https://thesalonculture.com/salon-event/%d9%84%d9%82%d8%a7%d8%a1-%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-cairo-social-club/
 - ID 417 | 2026-11-26 19:00 to 21:00 | upcoming | مناقشة كتاب شهر نوفمبر «فن الحرب» | ديوان مصر الجديدة – 105 شارع أبو بكر الصديق، مصر الجديدة | ديوان | https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%87%d8%b1-%d9%86%d9%88%d9%81%d9%85%d8%a8%d8%b1-%d9%81%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8/
@@ -75,8 +74,9 @@ The list below is a short form. The files above hold every public field of every
 - ID 559 | 2026-11-22 19:00 | ended | حفل توقيع ومناقشة «Café Riche» — ميسون صقر | ديوان الزمالك – 159 شارع 26 يوليو، الزمالك | ديوان | https://thesalonculture.com/salon-event/%d8%ad%d9%81%d9%84-%d8%aa%d9%88%d9%82%d9%8a%d8%b9-%d9%88%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-cafe-riche-%d9%85%d9%8a%d8%b3%d9%88%d9%86-%d8%b5%d9%82%d8%b1/
 - ID 414 | 2026-11-23 19:00 to 21:00 | ended | مناقشة كتاب Yesteryear | ديوان الزمالك – 159 شارع 26 يوليو، الزمالك | ديوان | https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d9%83%d8%aa%d8%a7%d8%a8-yesteryear/
 - ID 560 | 2026-11-24 18:00 to 22:00 | ended | أمسية أدبية لرواية «أعرف جبلًا ينتظرني» — شعلة رضا زاده | المعهد الهولندي الفلمنكي – الزمالك، القاهرة | دار الرواق للنشر والتوزيع | https://thesalonculture.com/salon-event/%d8%a3%d9%85%d8%b3%d9%8a%d8%a9-%d8%a3%d8%af%d8%a8%d9%8a%d8%a9-%d9%84%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d8%b9%d8%b1%d9%81-%d8%ac%d8%a8%d9%84%d9%8b%d8%a7-%d9%8a%d9%86%d8%aa%d8%b8%d8%b1%d9%86/
+- ID 415 | 2026-11-25 19:00 to 21:00 | ended | مناقشة رواية Klara and the Sun | ديوان Majarrah – Block 12، محور 26 يوليو، الشيخ زايد | ديوان | https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-klara-and-the-sun/
 
 ## END OF INVENTORY
 
 - returned_count: 30
-- snapshot_id: 20261125T184352Z-e666a21d
+- snapshot_id: 20261125T200217Z-7098edc2

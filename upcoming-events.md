@@ -11,57 +11,25 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: upcoming-events
 - scope: upcoming
-- snapshot_id: 20261125T184352Z-e666a21d
+- snapshot_id: 20261125T200217Z-7098edc2
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-25T18:43:52Z
-- mirrored_at: 2026-11-25T18:43:52Z
-- stale_after: 2026-11-25T21:43:52Z
+- source_generated_at: 2026-11-25T20:02:16Z
+- mirrored_at: 2026-11-25T20:02:17Z
+- stale_after: 2026-11-25T23:02:17Z
 - timezone: Africa/Cairo
 - total_published: 30
-- total_upcoming: 12
-- total_archive: 18
-- returned_count: 12
+- total_upcoming: 11
+- total_archive: 19
+- returned_count: 11
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: b8fec37a4e53d2487f2df3b60f73c946a2b5e16a62716985091e87f0a60a7165
+- records_sha256: 731fcffe7cd0375f2dbc2c6ef4acd2678a9af746f49d556d4dfcf707a8ef4f9a
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
-## Event 1 of 12
-
-- id: 415
-- title: مناقشة رواية Klara and the Sun
-- event_type: مناقشة رواية
-- book_title: Klara and the Sun
-- start_date: 2026-11-25
-- start_time: 19:00
-- start_datetime: 2026-11-25T19:00:00+02:00
-- end_date: (not published)
-- end_time: 21:00
-- end_datetime: 2026-11-25T21:00:00+02:00
-- is_multi_day: no
-- timezone: Africa/Cairo
-- attendance: حضوري
-- city: الشيخ زايد
-- venue: ديوان Majarrah – Block 12، محور 26 يوليو، الشيخ زايد
-- organizer: ديوان
-- guest_moderator: (not published)
-- price: (not published)
-- registration_url: (not published)
-- source_url: https://diwanegypt.com/event/majarrah-november-book-discussion-klara-and-the-sun/
-- description: لقاء نادي القراءة الشهري في فرع ديوان Majarrah بالشيخ زايد لمناقشة «Klara and the Sun»، ويدير النقاش Lamah Anas.
-- details: لقاء نادي القراءة الشهري في فرع ديوان Majarrah بالشيخ زايد لمناقشة «Klara and the Sun»، ويدير النقاش Lamah Anas. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: ديوان. المصدر الرسمي: https://diwanegypt.com/event/majarrah-november-book-discussion-klara-and-the-sun/ آخر تحقق من المصدر الرسمي: 10 نوفمبر 2026.
-- listing: external
-- url: https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-klara-and-the-sun/
-- last_modified: 2026-11-10T19:33:18Z
-- status: ongoing
-- status_label: فعالية جارية الآن
-- cancelled: no
-- postponed: no
-
-## Event 2 of 12
+## Event 1 of 11
 
 - id: 561
 - title: نادي كتاب طلال فيصل — مناقشة رواية «أن تكون عباس العبد»
@@ -93,7 +61,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 3 of 12
+## Event 2 of 11
 
 - id: 416
 - title: لقاء نادي الكتاب — Cairo Social Club
@@ -125,7 +93,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 4 of 12
+## Event 3 of 11
 
 - id: 417
 - title: مناقشة كتاب شهر نوفمبر «فن الحرب»
@@ -157,7 +125,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 5 of 12
+## Event 4 of 11
 
 - id: 418
 - title: نادي الكتاب الإنجليزي — Pride and Prejudice
@@ -189,7 +157,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 6 of 12
+## Event 5 of 11
 
 - id: 420
 - title: معرض كتب الكريسماس في مكتبة الجامعة الأمريكية (28 نوفمبر – 3 ديسمبر)
@@ -221,7 +189,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 7 of 12
+## Event 6 of 11
 
 - id: 419
 - title: حكي قصة «يوستفندي مهدي» مع سلمى البنا
@@ -253,7 +221,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 8 of 12
+## Event 7 of 11
 
 - id: 578
 - title: مناقشة رواية The Housemaid
@@ -285,7 +253,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 9 of 12
+## Event 8 of 11
 
 - id: 579
 - title: ورشة مقدمة إلى عالم النشر مع سام أيمن
@@ -317,7 +285,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 10 of 12
+## Event 9 of 11
 
 - id: 572
 - title: مناقشة وتوقيع كتاب «حياة أمنحتب ابن حابو وإرثه» — Aidan Dodson
@@ -349,7 +317,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 11 of 12
+## Event 10 of 11
 
 - id: 421
 - title: حفل جائزة نجيب محفوظ للأدب 2026
@@ -381,7 +349,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 12 of 12
+## Event 11 of 11
 
 - id: 423
 - title: معرض القاهرة الدولي للكتاب — الدورة 58
@@ -416,6 +384,6 @@ Status describes the moment source_generated_at. Times are Cairo time.
 ## END OF INVENTORY
 
 - marker: END OF INVENTORY
-- returned_count: 12
+- returned_count: 11
 - last_event_id: 423
-- snapshot_id: 20261125T184352Z-e666a21d
+- snapshot_id: 20261125T200217Z-7098edc2

@@ -11,25 +11,25 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: archive-events
 - scope: archive
-- snapshot_id: 20261125T184352Z-e666a21d
+- snapshot_id: 20261125T200217Z-7098edc2
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-25T18:43:52Z
-- mirrored_at: 2026-11-25T18:43:52Z
-- stale_after: 2026-11-25T21:43:52Z
+- source_generated_at: 2026-11-25T20:02:16Z
+- mirrored_at: 2026-11-25T20:02:17Z
+- stale_after: 2026-11-25T23:02:17Z
 - timezone: Africa/Cairo
 - total_published: 30
-- total_upcoming: 12
-- total_archive: 18
-- returned_count: 18
+- total_upcoming: 11
+- total_archive: 19
+- returned_count: 19
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: 48f06784d15504af1611f27f944086c1800cf2b68af078b066d8407754ba94f5
+- records_sha256: 8908a00e0402d9cbd3cc442bead480a9c05a72ca29f0c31d536bba61511de210
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
-## Event 1 of 18
+## Event 1 of 19
 
 - id: 405
 - title: مناقشة كتاب The Fayum Landscape
@@ -61,7 +61,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 2 of 18
+## Event 2 of 19
 
 - id: 406
 - title: ورشة الكتابة الإبداعية للمبتدئين مع فاطمة الزهراء
@@ -93,7 +93,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 3 of 18
+## Event 3 of 19
 
 - id: 407
 - title: حفل توقيع ومناقشة رواية «هاتف الوداعات الأخيرة»
@@ -125,7 +125,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 4 of 18
+## Event 4 of 19
 
 - id: 404
 - title: مناقشة كتاب الشهر: «قارئ الجثث»
@@ -157,7 +157,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 5 of 18
+## Event 5 of 19
 
 - id: 408
 - title: ما وراء الغلاف — حوار حول أعمال نوارة نجم
@@ -189,7 +189,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 6 of 18
+## Event 6 of 19
 
 - id: 422
 - title: طه حسين — إحياء إرثه الأدبي والفلسفي
@@ -221,7 +221,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 7 of 18
+## Event 7 of 19
 
 - id: 409
 - title: حفل توقيع ومناقشة رواية «ذاكرة لا تكفي للنسيان»
@@ -253,7 +253,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 8 of 18
+## Event 8 of 19
 
 - id: 556
 - title: حفل إطلاق المجموعة القصصية «محكمة الوحي الإلهي»
@@ -285,7 +285,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 9 of 18
+## Event 9 of 19
 
 - id: 410
 - title: حفل توقيع ومناقشة كتاب «تأملات في حكمة الأجداد»
@@ -317,7 +317,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 10 of 18
+## Event 10 of 19
 
 - id: 411
 - title: نادي الكتاب العربي «لقاء» — مناقشة «تخفيف أحمال»
@@ -349,7 +349,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 11 of 18
+## Event 11 of 19
 
 - id: 412
 - title: حفل إطلاق وتوقيع رواية «النبي الصغير»
@@ -381,7 +381,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 12 of 18
+## Event 12 of 19
 
 - id: 574
 - title: كتاب الشهر — مناقشة «كنّا هنا»
@@ -413,7 +413,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 13 of 18
+## Event 13 of 19
 
 - id: 557
 - title: جلسة حكي للأطفال: «Tales of Ancient Egypt» مع سام أيمن
@@ -445,7 +445,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 14 of 18
+## Event 14 of 19
 
 - id: 413
 - title: حكي قصة كتاب «كلمة واحدة سحرية» مع مادونا وديع
@@ -477,7 +477,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 15 of 18
+## Event 15 of 19
 
 - id: 558
 - title: حكي قصص للأطفال مع ساندرا سوريال — Storytime Adventures
@@ -509,7 +509,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 16 of 18
+## Event 16 of 19
 
 - id: 559
 - title: حفل توقيع ومناقشة «Café Riche» — ميسون صقر
@@ -541,7 +541,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 17 of 18
+## Event 17 of 19
 
 - id: 414
 - title: مناقشة كتاب Yesteryear
@@ -573,7 +573,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 18 of 18
+## Event 18 of 19
 
 - id: 560
 - title: أمسية أدبية لرواية «أعرف جبلًا ينتظرني» — شعلة رضا زاده
@@ -605,9 +605,41 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
+## Event 19 of 19
+
+- id: 415
+- title: مناقشة رواية Klara and the Sun
+- event_type: مناقشة رواية
+- book_title: Klara and the Sun
+- start_date: 2026-11-25
+- start_time: 19:00
+- start_datetime: 2026-11-25T19:00:00+02:00
+- end_date: (not published)
+- end_time: 21:00
+- end_datetime: 2026-11-25T21:00:00+02:00
+- is_multi_day: no
+- timezone: Africa/Cairo
+- attendance: حضوري
+- city: الشيخ زايد
+- venue: ديوان Majarrah – Block 12، محور 26 يوليو، الشيخ زايد
+- organizer: ديوان
+- guest_moderator: (not published)
+- price: (not published)
+- registration_url: (not published)
+- source_url: https://diwanegypt.com/event/majarrah-november-book-discussion-klara-and-the-sun/
+- description: لقاء نادي القراءة الشهري في فرع ديوان Majarrah بالشيخ زايد لمناقشة «Klara and the Sun»، ويدير النقاش Lamah Anas.
+- details: لقاء نادي القراءة الشهري في فرع ديوان Majarrah بالشيخ زايد لمناقشة «Klara and the Sun»، ويدير النقاش Lamah Anas. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: ديوان. المصدر الرسمي: https://diwanegypt.com/event/majarrah-november-book-discussion-klara-and-the-sun/ آخر تحقق من المصدر الرسمي: 10 نوفمبر 2026.
+- listing: external
+- url: https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-klara-and-the-sun/
+- last_modified: 2026-11-10T19:33:18Z
+- status: ended
+- status_label: فعالية منتهية
+- cancelled: no
+- postponed: no
+
 ## END OF INVENTORY
 
 - marker: END OF INVENTORY
-- returned_count: 18
-- last_event_id: 560
-- snapshot_id: 20261125T184352Z-e666a21d
+- returned_count: 19
+- last_event_id: 415
+- snapshot_id: 20261125T200217Z-7098edc2
