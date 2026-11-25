@@ -11,25 +11,25 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: archive-events
 - scope: archive
-- snapshot_id: 20261125T200217Z-7098edc2
+- snapshot_id: 20261125T220638Z-708c2aca
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-25T20:02:16Z
-- mirrored_at: 2026-11-25T20:02:17Z
-- stale_after: 2026-11-25T23:02:17Z
+- source_generated_at: 2026-11-25T22:06:37Z
+- mirrored_at: 2026-11-25T22:06:38Z
+- stale_after: 2026-11-26T01:06:38Z
 - timezone: Africa/Cairo
 - total_published: 30
-- total_upcoming: 11
-- total_archive: 19
-- returned_count: 19
+- total_upcoming: 9
+- total_archive: 21
+- returned_count: 21
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: 8908a00e0402d9cbd3cc442bead480a9c05a72ca29f0c31d536bba61511de210
+- records_sha256: ebde3c1d04c712f119e0ff9f7cf893fd9b58d3df6d5c55e5e481f7f0ff33ffa2
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
-## Event 1 of 19
+## Event 1 of 21
 
 - id: 405
 - title: مناقشة كتاب The Fayum Landscape
@@ -61,7 +61,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 2 of 19
+## Event 2 of 21
 
 - id: 406
 - title: ورشة الكتابة الإبداعية للمبتدئين مع فاطمة الزهراء
@@ -93,7 +93,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 3 of 19
+## Event 3 of 21
 
 - id: 407
 - title: حفل توقيع ومناقشة رواية «هاتف الوداعات الأخيرة»
@@ -125,7 +125,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 4 of 19
+## Event 4 of 21
 
 - id: 404
 - title: مناقشة كتاب الشهر: «قارئ الجثث»
@@ -157,7 +157,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 5 of 19
+## Event 5 of 21
 
 - id: 408
 - title: ما وراء الغلاف — حوار حول أعمال نوارة نجم
@@ -189,7 +189,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 6 of 19
+## Event 6 of 21
 
 - id: 422
 - title: طه حسين — إحياء إرثه الأدبي والفلسفي
@@ -221,7 +221,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 7 of 19
+## Event 7 of 21
 
 - id: 409
 - title: حفل توقيع ومناقشة رواية «ذاكرة لا تكفي للنسيان»
@@ -253,7 +253,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 8 of 19
+## Event 8 of 21
 
 - id: 556
 - title: حفل إطلاق المجموعة القصصية «محكمة الوحي الإلهي»
@@ -285,7 +285,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 9 of 19
+## Event 9 of 21
 
 - id: 410
 - title: حفل توقيع ومناقشة كتاب «تأملات في حكمة الأجداد»
@@ -317,7 +317,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 10 of 19
+## Event 10 of 21
 
 - id: 411
 - title: نادي الكتاب العربي «لقاء» — مناقشة «تخفيف أحمال»
@@ -349,7 +349,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 11 of 19
+## Event 11 of 21
 
 - id: 412
 - title: حفل إطلاق وتوقيع رواية «النبي الصغير»
@@ -381,7 +381,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 12 of 19
+## Event 12 of 21
 
 - id: 574
 - title: كتاب الشهر — مناقشة «كنّا هنا»
@@ -413,7 +413,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 13 of 19
+## Event 13 of 21
 
 - id: 557
 - title: جلسة حكي للأطفال: «Tales of Ancient Egypt» مع سام أيمن
@@ -445,7 +445,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 14 of 19
+## Event 14 of 21
 
 - id: 413
 - title: حكي قصة كتاب «كلمة واحدة سحرية» مع مادونا وديع
@@ -477,7 +477,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 15 of 19
+## Event 15 of 21
 
 - id: 558
 - title: حكي قصص للأطفال مع ساندرا سوريال — Storytime Adventures
@@ -509,7 +509,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 16 of 19
+## Event 16 of 21
 
 - id: 559
 - title: حفل توقيع ومناقشة «Café Riche» — ميسون صقر
@@ -541,7 +541,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 17 of 19
+## Event 17 of 21
 
 - id: 414
 - title: مناقشة كتاب Yesteryear
@@ -573,7 +573,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 18 of 19
+## Event 18 of 21
 
 - id: 560
 - title: أمسية أدبية لرواية «أعرف جبلًا ينتظرني» — شعلة رضا زاده
@@ -605,7 +605,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 19 of 19
+## Event 19 of 21
 
 - id: 415
 - title: مناقشة رواية Klara and the Sun
@@ -637,9 +637,73 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
+## Event 20 of 21
+
+- id: 561
+- title: نادي كتاب طلال فيصل — مناقشة رواية «أن تكون عباس العبد»
+- event_type: مناقشة رواية
+- book_title: «أن تكون عباس العبد» — أحمد العايدي
+- start_date: 2026-11-25
+- start_time: 19:00
+- start_datetime: 2026-11-25T19:00:00+02:00
+- end_date: (not published)
+- end_time: (not published)
+- end_datetime: (not published)
+- is_multi_day: no
+- timezone: Africa/Cairo
+- attendance: حضوري
+- city: القاهرة
+- venue: ديوان الزمالك – 159 شارع 26 يوليو، الزمالك
+- organizer: ديوان
+- guest_moderator: (not published)
+- price: (not published)
+- registration_url: (not published)
+- source_url: https://www.instagram.com/p/Dfo7lV0CHHl/
+- description: لقاء نادي كتاب طلال فيصل لمناقشة رواية «أن تكون عباس العبد» (Being Abbas el Abd) بحضور كاتبها أحمد العايدي. النقاش مفتوح لقراء العربية والإنجليزية.
+- details: لقاء نادي كتاب طلال فيصل لمناقشة رواية «أن تكون عباس العبد» (Being Abbas el Abd) بحضور كاتبها أحمد العايدي. النقاش مفتوح لقراء العربية والإنجليزية. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: ديوان. المصدر الرسمي (إعلان ديوان): https://www.instagram.com/p/Dfo7lV0CHHl/ آخر تحقق من المصدر الرسمي: 13 نوفمبر 2026.
+- listing: external
+- url: https://thesalonculture.com/salon-event/%d9%86%d8%a7%d8%af%d9%8a-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b7%d9%84%d8%a7%d9%84-%d9%81%d9%8a%d8%b5%d9%84-%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d9%86/
+- last_modified: 2026-11-13T11:45:33Z
+- status: ended
+- status_label: فعالية منتهية
+- cancelled: no
+- postponed: no
+
+## Event 21 of 21
+
+- id: 416
+- title: لقاء نادي الكتاب — Cairo Social Club
+- event_type: ندوة كتاب
+- book_title: لم يُعلن عنوان الكتاب في المصدر الرسمي
+- start_date: 2026-11-25
+- start_time: 20:00
+- start_datetime: 2026-11-25T20:00:00+02:00
+- end_date: (not published)
+- end_time: (not published)
+- end_datetime: (not published)
+- is_multi_day: no
+- timezone: Africa/Cairo
+- attendance: حضوري
+- city: القاهرة
+- venue: المعادي (لم يُذكر العنوان التفصيلي في الإعلان الرسمي)
+- organizer: Cairo Social Club
+- guest_moderator: (not published)
+- price: تسجيل مسبق (الأماكن محدودة)
+- registration_url: (not published)
+- source_url: https://www.instagram.com/cairosocialclub/p/DfHqG5EEadH/
+- description: لقاء نادي الكتاب ضمن برنامج Cairo Social Club لشهر نوفمبر، من الثامنة حتى العاشرة مساءً في المعادي. التسجيل مسبق والأماكن محدودة بحسب إعلان المنظّم.
+- details: لقاء نادي الكتاب ضمن برنامج Cairo Social Club لشهر نوفمبر، من الثامنة حتى العاشرة مساءً في المعادي. التسجيل مسبق والأماكن محدودة بحسب إعلان المنظّم. لم يذكر الإعلان الرسمي عنوان الكتاب ولا العنوان التفصيلي للمكان؛ يُرجى متابعة حساب المنظّم للتفاصيل والتسجيل. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: Cairo Social Club. المصدر الرسمي: https://www.instagram.com/cairosocialclub/p/DfHqG5EEadH/ آخر تحقق من المصدر الرسمي: 10 نوفمبر 2026.
+- listing: external
+- url: https://thesalonculture.com/salon-event/%d9%84%d9%82%d8%a7%d8%a1-%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-cairo-social-club/
+- last_modified: 2026-11-10T19:33:37Z
+- status: ended
+- status_label: فعالية منتهية
+- cancelled: no
+- postponed: no
+
 ## END OF INVENTORY
 
 - marker: END OF INVENTORY
-- returned_count: 19
-- last_event_id: 415
-- snapshot_id: 20261125T200217Z-7098edc2
+- returned_count: 21
+- last_event_id: 416
+- snapshot_id: 20261125T220638Z-708c2aca
