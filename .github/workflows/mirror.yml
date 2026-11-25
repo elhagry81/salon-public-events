@@ -36,7 +36,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          git add -- README.md events.json events.md upcoming-events.json upcoming-events.md
+          git add -- README.md events.json events.md upcoming-events.json upcoming-events.md archive-events.md
           if [ -n "$(git status --porcelain | grep -v '^[AM]  ' || true)" ]; then echo "unexpected change"; exit 1; fi
           git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
             commit -q -m "Snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
