@@ -3,12 +3,12 @@
  "schema_version": "1.0",
  "file": "events",
  "scope": "all",
- "snapshot_id": "20261126T031004Z-708c2aca",
+ "snapshot_id": "20261126T131230Z-708c2aca",
  "source_url": "https://thesalonculture.com/wp-json/salon/v1/events",
  "source_feed_version": 1,
- "source_generated_at": "2026-11-26T03:10:04Z",
- "mirrored_at": "2026-11-26T03:10:04Z",
- "stale_after": "2026-11-26T06:10:04Z",
+ "source_generated_at": "2026-11-26T13:12:30Z",
+ "mirrored_at": "2026-11-26T13:12:30Z",
+ "stale_after": "2026-11-26T16:12:30Z",
  "timezone": "Africa/Cairo",
  "total_published": 30,
  "total_upcoming": 9,
@@ -988,6 +988,6 @@
   "marker": "END OF INVENTORY",
   "returned_count": 30,
   "last_event_id": 423,
-  "snapshot_id": "20261126T031004Z-708c2aca"
+  "snapshot_id": "20261126T131230Z-708c2aca"
  }
 }
