@@ -6,14 +6,14 @@ The website is the authority. This repository holds only what visitors can alrea
 ## Snapshot
 
 - schema_version: 1.0
-- snapshot_id: 20261126T131230Z-708c2aca
+- snapshot_id: 20261126T223656Z-f4403d56
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
-- source_generated_at: 2026-11-26T13:12:30Z
-- mirrored_at: 2026-11-26T13:12:30Z
-- stale_after: 2026-11-26T16:12:30Z
+- source_generated_at: 2026-11-26T22:36:55Z
+- mirrored_at: 2026-11-26T22:36:56Z
+- stale_after: 2026-11-27T01:36:56Z
 - total_published: 30
-- total_upcoming: 9
-- total_archive: 21
+- total_upcoming: 8
+- total_archive: 22
 - returned_count: 30
 - pagination_complete: yes
 
@@ -42,7 +42,6 @@ The list below is a short form. The files above hold every public field of every
 
 ## Upcoming and current events
 
-- ID 417 | 2026-11-26 19:00 to 21:00 | upcoming | مناقشة كتاب شهر نوفمبر «فن الحرب» | ديوان مصر الجديدة – 105 شارع أبو بكر الصديق، مصر الجديدة | ديوان | https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%87%d8%b1-%d9%86%d9%88%d9%81%d9%85%d8%a8%d8%b1-%d9%81%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8/
 - ID 418 | 2026-11-27 19:00 to 22:00 | upcoming | نادي الكتاب الإنجليزي — Pride and Prejudice | Aura Space – 9 شارع 251، دجلة، المعادي | Aura Space (The English Book Club) | https://thesalonculture.com/salon-event/%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a-pride-and-prejudice/
 - ID 420 | 2026-11-28 10:00 to 2026-12-03 until 19:00 | upcoming | معرض كتب الكريسماس في مكتبة الجامعة الأمريكية (28 نوفمبر – 3 ديسمبر) | مكتبة الجامعة الأمريكية بالقاهرة (AUC Bookstore) – ميدان التحرير | AUC Bookstore / دار نشر الجامعة الأمريكية بالقاهرة (AUC Press) | https://thesalonculture.com/salon-event/%d9%85%d8%b9%d8%b1%d8%b6-%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d8%b3%d9%85%d8%a7%d8%b3-%d9%81%d9%8a-%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84/
 - ID 419 | 2026-11-28 13:00 to 14:00 | upcoming | حكي قصة «يوستفندي مهدي» مع سلمى البنا | ديوان الزمالك – 159 شارع 26 يوليو، الزمالك | ديوان | https://thesalonculture.com/salon-event/%d8%ad%d9%83%d9%8a-%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b3%d8%aa%d9%81%d9%86%d8%af%d9%8a-%d9%85%d9%87%d8%af%d9%8a-%d9%85%d8%b9-%d8%b3%d9%84%d9%85%d9%89-%d8%a7%d9%84%d8%a8%d9%86%d8%a7/
@@ -75,8 +74,9 @@ The list below is a short form. The files above hold every public field of every
 - ID 415 | 2026-11-25 19:00 to 21:00 | ended | مناقشة رواية Klara and the Sun | ديوان Majarrah – Block 12، محور 26 يوليو، الشيخ زايد | ديوان | https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-klara-and-the-sun/
 - ID 561 | 2026-11-25 19:00 | ended | نادي كتاب طلال فيصل — مناقشة رواية «أن تكون عباس العبد» | ديوان الزمالك – 159 شارع 26 يوليو، الزمالك | ديوان | https://thesalonculture.com/salon-event/%d9%86%d8%a7%d8%af%d9%8a-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b7%d9%84%d8%a7%d9%84-%d9%81%d9%8a%d8%b5%d9%84-%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%a3%d9%86/
 - ID 416 | 2026-11-25 20:00 | ended | لقاء نادي الكتاب — Cairo Social Club | المعادي (لم يُذكر العنوان التفصيلي في الإعلان الرسمي) | Cairo Social Club | https://thesalonculture.com/salon-event/%d9%84%d9%82%d8%a7%d8%a1-%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-cairo-social-club/
+- ID 417 | 2026-11-26 19:00 to 21:00 | ended | مناقشة كتاب شهر نوفمبر «فن الحرب» | ديوان مصر الجديدة – 105 شارع أبو بكر الصديق، مصر الجديدة | ديوان | https://thesalonculture.com/salon-event/%d9%85%d9%86%d8%a7%d9%82%d8%b4%d8%a9-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%87%d8%b1-%d9%86%d9%88%d9%81%d9%85%d8%a8%d8%b1-%d9%81%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8/
 
 ## END OF INVENTORY
 
 - returned_count: 30
-- snapshot_id: 20261126T131230Z-708c2aca
+- snapshot_id: 20261126T223656Z-f4403d56
