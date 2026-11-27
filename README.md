@@ -6,11 +6,11 @@ The website is the authority. This repository holds only what visitors can alrea
 ## Snapshot
 
 - schema_version: 1.0
-- snapshot_id: 20261126T223656Z-f4403d56
+- snapshot_id: 20261127T043447Z-f4403d56
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
-- source_generated_at: 2026-11-26T22:36:55Z
-- mirrored_at: 2026-11-26T22:36:56Z
-- stale_after: 2026-11-27T01:36:56Z
+- source_generated_at: 2026-11-27T04:34:47Z
+- mirrored_at: 2026-11-27T04:34:47Z
+- stale_after: 2026-11-27T07:34:47Z
 - total_published: 30
 - total_upcoming: 8
 - total_archive: 22
@@ -79,4 +79,4 @@ The list below is a short form. The files above hold every public field of every
 ## END OF INVENTORY
 
 - returned_count: 30
-- snapshot_id: 20261126T223656Z-f4403d56
+- snapshot_id: 20261127T043447Z-f4403d56
