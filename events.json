@@ -3,21 +3,21 @@
  "schema_version": "1.0",
  "file": "events",
  "scope": "all",
- "snapshot_id": "20261127T142432Z-f4403d56",
+ "snapshot_id": "20261127T225818Z-36f9bb7d",
  "source_url": "https://thesalonculture.com/wp-json/salon/v1/events",
  "source_feed_version": 1,
- "source_generated_at": "2026-11-27T14:24:32Z",
- "mirrored_at": "2026-11-27T14:24:32Z",
- "stale_after": "2026-11-27T17:24:32Z",
+ "source_generated_at": "2026-11-27T22:58:18Z",
+ "mirrored_at": "2026-11-27T22:58:18Z",
+ "stale_after": "2026-11-28T01:58:18Z",
  "timezone": "Africa/Cairo",
  "total_published": 30,
- "total_upcoming": 8,
- "total_archive": 22,
+ "total_upcoming": 7,
+ "total_archive": 23,
  "returned_count": 30,
  "source_pages": 1,
  "source_pages_read": 1,
  "pagination_complete": true,
- "records_sha256": "f4403d563890a4cc023196b6ea67029a3bddb393add62ee0a6a1b53472503b41",
+ "records_sha256": "36f9bb7d9b3cd6f8aab7943295c3a65a94970c26d7de2b89297359b8a4d24aec",
  "events_page": "https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/",
  "calendar_page": "https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/",
  "event_ids": [
@@ -761,8 +761,8 @@
    "listing": "external",
    "url": "https://thesalonculture.com/salon-event/%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a-pride-and-prejudice/",
    "last_modified": "2026-11-17T09:03:35Z",
-   "status": "upcoming",
-   "status_label": "فعالية قادمة",
+   "status": "ended",
+   "status_label": "فعالية منتهية",
    "cancelled": false,
    "postponed": false
   },
@@ -988,6 +988,6 @@
   "marker": "END OF INVENTORY",
   "returned_count": 30,
   "last_event_id": 423,
-  "snapshot_id": "20261127T142432Z-f4403d56"
+  "snapshot_id": "20261127T225818Z-36f9bb7d"
  }
 }

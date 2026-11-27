@@ -11,25 +11,25 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: archive-events
 - scope: archive
-- snapshot_id: 20261127T142432Z-f4403d56
+- snapshot_id: 20261127T225818Z-36f9bb7d
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-27T14:24:32Z
-- mirrored_at: 2026-11-27T14:24:32Z
-- stale_after: 2026-11-27T17:24:32Z
+- source_generated_at: 2026-11-27T22:58:18Z
+- mirrored_at: 2026-11-27T22:58:18Z
+- stale_after: 2026-11-28T01:58:18Z
 - timezone: Africa/Cairo
 - total_published: 30
-- total_upcoming: 8
-- total_archive: 22
-- returned_count: 22
+- total_upcoming: 7
+- total_archive: 23
+- returned_count: 23
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: f54fc582008a525ff88921676e30e8c9ae1311d8f6fcca8969355da2c4697b59
+- records_sha256: b34898c00e88f593b4a03dc5d177c685490b42dfdaca0ea2919a702fcbad6b3d
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
-## Event 1 of 22
+## Event 1 of 23
 
 - id: 405
 - title: مناقشة كتاب The Fayum Landscape
@@ -61,7 +61,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 2 of 22
+## Event 2 of 23
 
 - id: 406
 - title: ورشة الكتابة الإبداعية للمبتدئين مع فاطمة الزهراء
@@ -93,7 +93,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 3 of 22
+## Event 3 of 23
 
 - id: 407
 - title: حفل توقيع ومناقشة رواية «هاتف الوداعات الأخيرة»
@@ -125,7 +125,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 4 of 22
+## Event 4 of 23
 
 - id: 404
 - title: مناقشة كتاب الشهر: «قارئ الجثث»
@@ -157,7 +157,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 5 of 22
+## Event 5 of 23
 
 - id: 408
 - title: ما وراء الغلاف — حوار حول أعمال نوارة نجم
@@ -189,7 +189,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 6 of 22
+## Event 6 of 23
 
 - id: 422
 - title: طه حسين — إحياء إرثه الأدبي والفلسفي
@@ -221,7 +221,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 7 of 22
+## Event 7 of 23
 
 - id: 409
 - title: حفل توقيع ومناقشة رواية «ذاكرة لا تكفي للنسيان»
@@ -253,7 +253,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 8 of 22
+## Event 8 of 23
 
 - id: 556
 - title: حفل إطلاق المجموعة القصصية «محكمة الوحي الإلهي»
@@ -285,7 +285,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 9 of 22
+## Event 9 of 23
 
 - id: 410
 - title: حفل توقيع ومناقشة كتاب «تأملات في حكمة الأجداد»
@@ -317,7 +317,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 10 of 22
+## Event 10 of 23
 
 - id: 411
 - title: نادي الكتاب العربي «لقاء» — مناقشة «تخفيف أحمال»
@@ -349,7 +349,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 11 of 22
+## Event 11 of 23
 
 - id: 412
 - title: حفل إطلاق وتوقيع رواية «النبي الصغير»
@@ -381,7 +381,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 12 of 22
+## Event 12 of 23
 
 - id: 574
 - title: كتاب الشهر — مناقشة «كنّا هنا»
@@ -413,7 +413,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 13 of 22
+## Event 13 of 23
 
 - id: 557
 - title: جلسة حكي للأطفال: «Tales of Ancient Egypt» مع سام أيمن
@@ -445,7 +445,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 14 of 22
+## Event 14 of 23
 
 - id: 413
 - title: حكي قصة كتاب «كلمة واحدة سحرية» مع مادونا وديع
@@ -477,7 +477,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 15 of 22
+## Event 15 of 23
 
 - id: 558
 - title: حكي قصص للأطفال مع ساندرا سوريال — Storytime Adventures
@@ -509,7 +509,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 16 of 22
+## Event 16 of 23
 
 - id: 559
 - title: حفل توقيع ومناقشة «Café Riche» — ميسون صقر
@@ -541,7 +541,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 17 of 22
+## Event 17 of 23
 
 - id: 414
 - title: مناقشة كتاب Yesteryear
@@ -573,7 +573,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 18 of 22
+## Event 18 of 23
 
 - id: 560
 - title: أمسية أدبية لرواية «أعرف جبلًا ينتظرني» — شعلة رضا زاده
@@ -605,7 +605,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 19 of 22
+## Event 19 of 23
 
 - id: 415
 - title: مناقشة رواية Klara and the Sun
@@ -637,7 +637,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 20 of 22
+## Event 20 of 23
 
 - id: 561
 - title: نادي كتاب طلال فيصل — مناقشة رواية «أن تكون عباس العبد»
@@ -669,7 +669,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 21 of 22
+## Event 21 of 23
 
 - id: 416
 - title: لقاء نادي الكتاب — Cairo Social Club
@@ -701,7 +701,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 22 of 22
+## Event 22 of 23
 
 - id: 417
 - title: مناقشة كتاب شهر نوفمبر «فن الحرب»
@@ -733,9 +733,41 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
+## Event 23 of 23
+
+- id: 418
+- title: نادي الكتاب الإنجليزي — Pride and Prejudice
+- event_type: مناقشة رواية
+- book_title: Pride and Prejudice — Jane Austen
+- start_date: 2026-11-27
+- start_time: 19:00
+- start_datetime: 2026-11-27T19:00:00+02:00
+- end_date: (not published)
+- end_time: 22:00
+- end_datetime: 2026-11-27T22:00:00+02:00
+- is_multi_day: no
+- timezone: Africa/Cairo
+- attendance: حضوري
+- city: القاهرة
+- venue: Aura Space – 9 شارع 251، دجلة، المعادي
+- organizer: Aura Space (The English Book Club)
+- guest_moderator: (not published)
+- price: 250 جنيه
+- registration_url: https://auraspace.art/events/455/the-english-book-club-2026-11-27
+- source_url: https://auraspace.art/events/455/the-english-book-club-2026-11-27
+- description: لقاء The English Book Club لمناقشة رواية «Pride and Prejudice» لجين أوستن، مفتوح لمن قرأها ولمن يقرؤها لأول مرة، بحجز مسبق.
+- details: لقاء The English Book Club لمناقشة رواية «Pride and Prejudice» لجين أوستن، مفتوح لمن قرأها ولمن يقرؤها لأول مرة، بحجز مسبق. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: Aura Space (The English Book Club). صفحة الفعالية والحجز لدى Aura Space: https://auraspace.art/events/455/the-english-book-club-2026-11-27 آخر تحقق من المصدر الرسمي: 15 نوفمبر 2026.
+- listing: external
+- url: https://thesalonculture.com/salon-event/%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a-pride-and-prejudice/
+- last_modified: 2026-11-17T09:03:35Z
+- status: ended
+- status_label: فعالية منتهية
+- cancelled: no
+- postponed: no
+
 ## END OF INVENTORY
 
 - marker: END OF INVENTORY
-- returned_count: 22
-- last_event_id: 417
-- snapshot_id: 20261127T142432Z-f4403d56
+- returned_count: 23
+- last_event_id: 418
+- snapshot_id: 20261127T225818Z-36f9bb7d

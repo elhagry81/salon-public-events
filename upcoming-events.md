@@ -11,57 +11,25 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: upcoming-events
 - scope: upcoming
-- snapshot_id: 20261127T142432Z-f4403d56
+- snapshot_id: 20261127T225818Z-36f9bb7d
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-27T14:24:32Z
-- mirrored_at: 2026-11-27T14:24:32Z
-- stale_after: 2026-11-27T17:24:32Z
+- source_generated_at: 2026-11-27T22:58:18Z
+- mirrored_at: 2026-11-27T22:58:18Z
+- stale_after: 2026-11-28T01:58:18Z
 - timezone: Africa/Cairo
 - total_published: 30
-- total_upcoming: 8
-- total_archive: 22
-- returned_count: 8
+- total_upcoming: 7
+- total_archive: 23
+- returned_count: 7
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: 396fc43bd80e26a8a707039bfa5ab5e92c5c3ed6fd98ee29b76b832d23b1005a
+- records_sha256: 6cf000ca3553d7171e92a1d64f98203d7b0627af07c85cdcb2867c7d97b368d0
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
-## Event 1 of 8
-
-- id: 418
-- title: نادي الكتاب الإنجليزي — Pride and Prejudice
-- event_type: مناقشة رواية
-- book_title: Pride and Prejudice — Jane Austen
-- start_date: 2026-11-27
-- start_time: 19:00
-- start_datetime: 2026-11-27T19:00:00+02:00
-- end_date: (not published)
-- end_time: 22:00
-- end_datetime: 2026-11-27T22:00:00+02:00
-- is_multi_day: no
-- timezone: Africa/Cairo
-- attendance: حضوري
-- city: القاهرة
-- venue: Aura Space – 9 شارع 251، دجلة، المعادي
-- organizer: Aura Space (The English Book Club)
-- guest_moderator: (not published)
-- price: 250 جنيه
-- registration_url: https://auraspace.art/events/455/the-english-book-club-2026-11-27
-- source_url: https://auraspace.art/events/455/the-english-book-club-2026-11-27
-- description: لقاء The English Book Club لمناقشة رواية «Pride and Prejudice» لجين أوستن، مفتوح لمن قرأها ولمن يقرؤها لأول مرة، بحجز مسبق.
-- details: لقاء The English Book Club لمناقشة رواية «Pride and Prejudice» لجين أوستن، مفتوح لمن قرأها ولمن يقرؤها لأول مرة، بحجز مسبق. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: Aura Space (The English Book Club). صفحة الفعالية والحجز لدى Aura Space: https://auraspace.art/events/455/the-english-book-club-2026-11-27 آخر تحقق من المصدر الرسمي: 15 نوفمبر 2026.
-- listing: external
-- url: https://thesalonculture.com/salon-event/%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a-pride-and-prejudice/
-- last_modified: 2026-11-17T09:03:35Z
-- status: upcoming
-- status_label: فعالية قادمة
-- cancelled: no
-- postponed: no
-
-## Event 2 of 8
+## Event 1 of 7
 
 - id: 420
 - title: معرض كتب الكريسماس في مكتبة الجامعة الأمريكية (28 نوفمبر – 3 ديسمبر)
@@ -93,7 +61,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 3 of 8
+## Event 2 of 7
 
 - id: 419
 - title: حكي قصة «يوستفندي مهدي» مع سلمى البنا
@@ -125,7 +93,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 4 of 8
+## Event 3 of 7
 
 - id: 578
 - title: مناقشة رواية The Housemaid
@@ -157,7 +125,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 5 of 8
+## Event 4 of 7
 
 - id: 579
 - title: ورشة مقدمة إلى عالم النشر مع سام أيمن
@@ -189,7 +157,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 6 of 8
+## Event 5 of 7
 
 - id: 572
 - title: مناقشة وتوقيع كتاب «حياة أمنحتب ابن حابو وإرثه» — Aidan Dodson
@@ -221,7 +189,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 7 of 8
+## Event 6 of 7
 
 - id: 421
 - title: حفل جائزة نجيب محفوظ للأدب 2026
@@ -253,7 +221,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 8 of 8
+## Event 7 of 7
 
 - id: 423
 - title: معرض القاهرة الدولي للكتاب — الدورة 58
@@ -288,6 +256,6 @@ Status describes the moment source_generated_at. Times are Cairo time.
 ## END OF INVENTORY
 
 - marker: END OF INVENTORY
-- returned_count: 8
+- returned_count: 7
 - last_event_id: 423
-- snapshot_id: 20261127T142432Z-f4403d56
+- snapshot_id: 20261127T225818Z-36f9bb7d
