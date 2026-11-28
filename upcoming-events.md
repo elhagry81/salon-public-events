@@ -11,25 +11,25 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: upcoming-events
 - scope: upcoming
-- snapshot_id: 20261128T100850Z-99679d0a
+- snapshot_id: 20261128T143321Z-d1204f92
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-28T10:08:50Z
-- mirrored_at: 2026-11-28T10:08:50Z
-- stale_after: 2026-11-28T13:08:50Z
+- source_generated_at: 2026-11-28T14:33:20Z
+- mirrored_at: 2026-11-28T14:33:21Z
+- stale_after: 2026-11-28T17:33:21Z
 - timezone: Africa/Cairo
 - total_published: 31
-- total_upcoming: 8
-- total_archive: 23
-- returned_count: 8
+- total_upcoming: 7
+- total_archive: 24
+- returned_count: 7
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: 22cc77c212858c448804a9bf6abc9edf05bbccf57dce01454d8fc66c224995cb
+- records_sha256: ecdc1ff25e8cd7c9a4a2f19619c212c8ffddfeb5d3fac532de7739606fe6342e
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
-## Event 1 of 8
+## Event 1 of 7
 
 - id: 580
 - title: معرض كتاب الطفل بأشمون
@@ -61,7 +61,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 2 of 8
+## Event 2 of 7
 
 - id: 420
 - title: معرض كتب الكريسماس في مكتبة الجامعة الأمريكية (28 نوفمبر – 3 ديسمبر)
@@ -93,39 +93,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 3 of 8
-
-- id: 419
-- title: حكي قصة «يوستفندي مهدي» مع سلمى البنا
-- event_type: جلسة قراءة
-- book_title: «يوستفندي مهدي»
-- start_date: 2026-11-28
-- start_time: 13:00
-- start_datetime: 2026-11-28T13:00:00+02:00
-- end_date: (not published)
-- end_time: 14:00
-- end_datetime: 2026-11-28T14:00:00+02:00
-- is_multi_day: no
-- timezone: Africa/Cairo
-- attendance: حضوري
-- city: القاهرة
-- venue: ديوان الزمالك – 159 شارع 26 يوليو، الزمالك
-- organizer: ديوان
-- guest_moderator: (not published)
-- price: حجز مسبق
-- registration_url: https://forms.gle/jsziU4TBPhQwGLgc8
-- source_url: https://diwanegypt.com/event/%D8%AD%D9%83%D9%8A-%D9%82%D8%B5%D8%A9-%D9%8A%D9%88%D8%B3%D8%AA%D9%81%D9%86%D8%AF%D9%8A-%D9%85%D9%87%D8%AF%D9%8A-%D9%85%D8%B9-%D8%B3%D9%84%D9%85%D9%89-%D8%A7%D9%84%D8%A8%D9%86%D8%A7/
-- description: جلسة حكي للأطفال لقصة «يوستفندي مهدي» تقدمها سلمى البنا في ديوان الزمالك، بحجز مسبق عبر نموذج المنظّم.
-- details: جلسة حكي للأطفال لقصة «يوستفندي مهدي» تقدمها سلمى البنا في ديوان الزمالك، بحجز مسبق عبر نموذج المنظّم. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: ديوان. صفحة الفعالية لدى ديوان: https://diwanegypt.com/event/حكي-قصة-يوستفندي-مهدي-مع-سلمى-البنا/ نموذج الحجز من ديوان: https://forms.gle/jsziU4TBPhQwGLgc8 آخر تحقق من المصدر الرسمي: 10 نوفمبر 2026.
-- listing: external
-- url: https://thesalonculture.com/salon-event/%d8%ad%d9%83%d9%8a-%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b3%d8%aa%d9%81%d9%86%d8%af%d9%8a-%d9%85%d9%87%d8%af%d9%8a-%d9%85%d8%b9-%d8%b3%d9%84%d9%85%d9%89-%d8%a7%d9%84%d8%a8%d9%86%d8%a7/
-- last_modified: 2026-11-10T19:57:07Z
-- status: upcoming
-- status_label: فعالية قادمة
-- cancelled: no
-- postponed: no
-
-## Event 4 of 8
+## Event 3 of 7
 
 - id: 578
 - title: مناقشة رواية The Housemaid
@@ -157,7 +125,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 5 of 8
+## Event 4 of 7
 
 - id: 579
 - title: ورشة مقدمة إلى عالم النشر مع سام أيمن
@@ -189,7 +157,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 6 of 8
+## Event 5 of 7
 
 - id: 572
 - title: مناقشة وتوقيع كتاب «حياة أمنحتب ابن حابو وإرثه» — Aidan Dodson
@@ -221,7 +189,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 7 of 8
+## Event 6 of 7
 
 - id: 421
 - title: حفل جائزة نجيب محفوظ للأدب 2026
@@ -253,7 +221,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 8 of 8
+## Event 7 of 7
 
 - id: 423
 - title: معرض القاهرة الدولي للكتاب — الدورة 58
@@ -288,6 +256,6 @@ Status describes the moment source_generated_at. Times are Cairo time.
 ## END OF INVENTORY
 
 - marker: END OF INVENTORY
-- returned_count: 8
+- returned_count: 7
 - last_event_id: 423
-- snapshot_id: 20261128T100850Z-99679d0a
+- snapshot_id: 20261128T143321Z-d1204f92

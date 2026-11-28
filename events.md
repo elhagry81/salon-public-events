@@ -11,21 +11,21 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: events
 - scope: all
-- snapshot_id: 20261128T100850Z-99679d0a
+- snapshot_id: 20261128T143321Z-d1204f92
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-28T10:08:50Z
-- mirrored_at: 2026-11-28T10:08:50Z
-- stale_after: 2026-11-28T13:08:50Z
+- source_generated_at: 2026-11-28T14:33:20Z
+- mirrored_at: 2026-11-28T14:33:21Z
+- stale_after: 2026-11-28T17:33:21Z
 - timezone: Africa/Cairo
 - total_published: 31
-- total_upcoming: 8
-- total_archive: 23
+- total_upcoming: 7
+- total_archive: 24
 - returned_count: 31
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: 99679d0a3fbac5a898819dc6f334f224440ac69dccd5ef799169511b7b4e1788
+- records_sha256: d1204f92709fc1cce9c59c0d9925d1bf21e2f88189b5da25c1b2ac8ae21423a1
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
@@ -856,8 +856,8 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - listing: external
 - url: https://thesalonculture.com/salon-event/%d8%ad%d9%83%d9%8a-%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b3%d8%aa%d9%81%d9%86%d8%af%d9%8a-%d9%85%d9%87%d8%af%d9%8a-%d9%85%d8%b9-%d8%b3%d9%84%d9%85%d9%89-%d8%a7%d9%84%d8%a8%d9%86%d8%a7/
 - last_modified: 2026-11-10T19:57:07Z
-- status: upcoming
-- status_label: فعالية قادمة
+- status: ended
+- status_label: فعالية منتهية
 - cancelled: no
 - postponed: no
 
@@ -1026,4 +1026,4 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - marker: END OF INVENTORY
 - returned_count: 31
 - last_event_id: 423
-- snapshot_id: 20261128T100850Z-99679d0a
+- snapshot_id: 20261128T143321Z-d1204f92

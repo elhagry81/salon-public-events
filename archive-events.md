@@ -11,25 +11,25 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: archive-events
 - scope: archive
-- snapshot_id: 20261128T100850Z-99679d0a
+- snapshot_id: 20261128T143321Z-d1204f92
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-28T10:08:50Z
-- mirrored_at: 2026-11-28T10:08:50Z
-- stale_after: 2026-11-28T13:08:50Z
+- source_generated_at: 2026-11-28T14:33:20Z
+- mirrored_at: 2026-11-28T14:33:21Z
+- stale_after: 2026-11-28T17:33:21Z
 - timezone: Africa/Cairo
 - total_published: 31
-- total_upcoming: 8
-- total_archive: 23
-- returned_count: 23
+- total_upcoming: 7
+- total_archive: 24
+- returned_count: 24
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: b34898c00e88f593b4a03dc5d177c685490b42dfdaca0ea2919a702fcbad6b3d
+- records_sha256: 5e63da2beefc37b4329815ae66d4661024c55e6b03c80add26cda911e0b4b30f
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
-## Event 1 of 23
+## Event 1 of 24
 
 - id: 405
 - title: مناقشة كتاب The Fayum Landscape
@@ -61,7 +61,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 2 of 23
+## Event 2 of 24
 
 - id: 406
 - title: ورشة الكتابة الإبداعية للمبتدئين مع فاطمة الزهراء
@@ -93,7 +93,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 3 of 23
+## Event 3 of 24
 
 - id: 407
 - title: حفل توقيع ومناقشة رواية «هاتف الوداعات الأخيرة»
@@ -125,7 +125,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 4 of 23
+## Event 4 of 24
 
 - id: 404
 - title: مناقشة كتاب الشهر: «قارئ الجثث»
@@ -157,7 +157,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 5 of 23
+## Event 5 of 24
 
 - id: 408
 - title: ما وراء الغلاف — حوار حول أعمال نوارة نجم
@@ -189,7 +189,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 6 of 23
+## Event 6 of 24
 
 - id: 422
 - title: طه حسين — إحياء إرثه الأدبي والفلسفي
@@ -221,7 +221,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 7 of 23
+## Event 7 of 24
 
 - id: 409
 - title: حفل توقيع ومناقشة رواية «ذاكرة لا تكفي للنسيان»
@@ -253,7 +253,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 8 of 23
+## Event 8 of 24
 
 - id: 556
 - title: حفل إطلاق المجموعة القصصية «محكمة الوحي الإلهي»
@@ -285,7 +285,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 9 of 23
+## Event 9 of 24
 
 - id: 410
 - title: حفل توقيع ومناقشة كتاب «تأملات في حكمة الأجداد»
@@ -317,7 +317,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 10 of 23
+## Event 10 of 24
 
 - id: 411
 - title: نادي الكتاب العربي «لقاء» — مناقشة «تخفيف أحمال»
@@ -349,7 +349,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 11 of 23
+## Event 11 of 24
 
 - id: 412
 - title: حفل إطلاق وتوقيع رواية «النبي الصغير»
@@ -381,7 +381,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 12 of 23
+## Event 12 of 24
 
 - id: 574
 - title: كتاب الشهر — مناقشة «كنّا هنا»
@@ -413,7 +413,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 13 of 23
+## Event 13 of 24
 
 - id: 557
 - title: جلسة حكي للأطفال: «Tales of Ancient Egypt» مع سام أيمن
@@ -445,7 +445,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 14 of 23
+## Event 14 of 24
 
 - id: 413
 - title: حكي قصة كتاب «كلمة واحدة سحرية» مع مادونا وديع
@@ -477,7 +477,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 15 of 23
+## Event 15 of 24
 
 - id: 558
 - title: حكي قصص للأطفال مع ساندرا سوريال — Storytime Adventures
@@ -509,7 +509,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 16 of 23
+## Event 16 of 24
 
 - id: 559
 - title: حفل توقيع ومناقشة «Café Riche» — ميسون صقر
@@ -541,7 +541,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 17 of 23
+## Event 17 of 24
 
 - id: 414
 - title: مناقشة كتاب Yesteryear
@@ -573,7 +573,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 18 of 23
+## Event 18 of 24
 
 - id: 560
 - title: أمسية أدبية لرواية «أعرف جبلًا ينتظرني» — شعلة رضا زاده
@@ -605,7 +605,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 19 of 23
+## Event 19 of 24
 
 - id: 415
 - title: مناقشة رواية Klara and the Sun
@@ -637,7 +637,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 20 of 23
+## Event 20 of 24
 
 - id: 561
 - title: نادي كتاب طلال فيصل — مناقشة رواية «أن تكون عباس العبد»
@@ -669,7 +669,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 21 of 23
+## Event 21 of 24
 
 - id: 416
 - title: لقاء نادي الكتاب — Cairo Social Club
@@ -701,7 +701,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 22 of 23
+## Event 22 of 24
 
 - id: 417
 - title: مناقشة كتاب شهر نوفمبر «فن الحرب»
@@ -733,7 +733,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 23 of 23
+## Event 23 of 24
 
 - id: 418
 - title: نادي الكتاب الإنجليزي — Pride and Prejudice
@@ -765,9 +765,41 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
+## Event 24 of 24
+
+- id: 419
+- title: حكي قصة «يوستفندي مهدي» مع سلمى البنا
+- event_type: جلسة قراءة
+- book_title: «يوستفندي مهدي»
+- start_date: 2026-11-28
+- start_time: 13:00
+- start_datetime: 2026-11-28T13:00:00+02:00
+- end_date: (not published)
+- end_time: 14:00
+- end_datetime: 2026-11-28T14:00:00+02:00
+- is_multi_day: no
+- timezone: Africa/Cairo
+- attendance: حضوري
+- city: القاهرة
+- venue: ديوان الزمالك – 159 شارع 26 يوليو، الزمالك
+- organizer: ديوان
+- guest_moderator: (not published)
+- price: حجز مسبق
+- registration_url: https://forms.gle/jsziU4TBPhQwGLgc8
+- source_url: https://diwanegypt.com/event/%D8%AD%D9%83%D9%8A-%D9%82%D8%B5%D8%A9-%D9%8A%D9%88%D8%B3%D8%AA%D9%81%D9%86%D8%AF%D9%8A-%D9%85%D9%87%D8%AF%D9%8A-%D9%85%D8%B9-%D8%B3%D9%84%D9%85%D9%89-%D8%A7%D9%84%D8%A8%D9%86%D8%A7/
+- description: جلسة حكي للأطفال لقصة «يوستفندي مهدي» تقدمها سلمى البنا في ديوان الزمالك، بحجز مسبق عبر نموذج المنظّم.
+- details: جلسة حكي للأطفال لقصة «يوستفندي مهدي» تقدمها سلمى البنا في ديوان الزمالك، بحجز مسبق عبر نموذج المنظّم. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: ديوان. صفحة الفعالية لدى ديوان: https://diwanegypt.com/event/حكي-قصة-يوستفندي-مهدي-مع-سلمى-البنا/ نموذج الحجز من ديوان: https://forms.gle/jsziU4TBPhQwGLgc8 آخر تحقق من المصدر الرسمي: 10 نوفمبر 2026.
+- listing: external
+- url: https://thesalonculture.com/salon-event/%d8%ad%d9%83%d9%8a-%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b3%d8%aa%d9%81%d9%86%d8%af%d9%8a-%d9%85%d9%87%d8%af%d9%8a-%d9%85%d8%b9-%d8%b3%d9%84%d9%85%d9%89-%d8%a7%d9%84%d8%a8%d9%86%d8%a7/
+- last_modified: 2026-11-10T19:57:07Z
+- status: ended
+- status_label: فعالية منتهية
+- cancelled: no
+- postponed: no
+
 ## END OF INVENTORY
 
 - marker: END OF INVENTORY
-- returned_count: 23
-- last_event_id: 418
-- snapshot_id: 20261128T100850Z-99679d0a
+- returned_count: 24
+- last_event_id: 419
+- snapshot_id: 20261128T143321Z-d1204f92
