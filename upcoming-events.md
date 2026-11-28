@@ -11,25 +11,57 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - schema_version: 1.0
 - file: upcoming-events
 - scope: upcoming
-- snapshot_id: 20261128T045851Z-36f9bb7d
+- snapshot_id: 20261128T100850Z-99679d0a
 - source_url: https://thesalonculture.com/wp-json/salon/v1/events
 - source_feed_version: 1
-- source_generated_at: 2026-11-28T04:58:51Z
-- mirrored_at: 2026-11-28T04:58:51Z
-- stale_after: 2026-11-28T07:58:51Z
+- source_generated_at: 2026-11-28T10:08:50Z
+- mirrored_at: 2026-11-28T10:08:50Z
+- stale_after: 2026-11-28T13:08:50Z
 - timezone: Africa/Cairo
-- total_published: 30
-- total_upcoming: 7
+- total_published: 31
+- total_upcoming: 8
 - total_archive: 23
-- returned_count: 7
+- returned_count: 8
 - source_pages: 1
 - source_pages_read: 1
 - pagination_complete: yes
-- records_sha256: 6cf000ca3553d7171e92a1d64f98203d7b0627af07c85cdcb2867c7d97b368d0
+- records_sha256: 22cc77c212858c448804a9bf6abc9edf05bbccf57dce01454d8fc66c224995cb
 - events_page: https://thesalonculture.com/%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 - calendar_page: https://thesalonculture.com/%d8%aa%d9%82%d9%88%d9%8a%d9%85-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa/
 
-## Event 1 of 7
+## Event 1 of 8
+
+- id: 580
+- title: معرض كتاب الطفل بأشمون
+- event_type: فعالية ثقافية
+- book_title: (not published)
+- start_date: 2026-11-18
+- start_time: (not published)
+- start_datetime: (not published)
+- end_date: 2026-11-28
+- end_time: (not published)
+- end_datetime: (not published)
+- is_multi_day: yes
+- timezone: Africa/Cairo
+- attendance: حضوري
+- city: أشمون
+- venue: مكتبة الطفل بمدينة أشمون – محافظة المنوفية
+- organizer: الهيئة المصرية العامة للكتاب
+- guest_moderator: (not published)
+- price: (not published)
+- registration_url: (not published)
+- source_url: https://www.gocp.gov.eg/articles.aspx?ArticleID=211289
+- description: معرض لكتاب الطفل في مكتبة الطفل بمدينة أشمون بمحافظة المنوفية، تقيمه الهيئة المصرية العامة للكتاب بمشاركة الهيئة العامة لقصور الثقافة، ويضم إصدارات متنوعة في مجالات المعرفة والأدب والثقافة.
+- details: معرض لكتاب الطفل في مكتبة الطفل بمدينة أشمون بمحافظة المنوفية، تقيمه الهيئة المصرية العامة للكتاب بمشاركة الهيئة العامة لقصور الثقافة، ويضم إصدارات متنوعة في مجالات المعرفة والأدب والثقافة. افتُتح المعرض يوم 18 نوفمبر 2026 ويستمر حتى السبت 28 نوفمبر 2026. لم تُعلن مواعيد الزيارة اليومية ولا رسوم الدخول. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: الهيئة المصرية العامة للكتاب، بمشاركة الهيئة العامة لقصور الثقافة. الخبر لدى الهيئة العامة لقصور الثقافة: https://www.gocp.gov.eg/articles.aspx?ArticleID=211289 آخر تحقق من المصدر الرسمي: 28 نوفمبر 2026.
+- listing: external
+- url: https://thesalonculture.com/salon-event/%d9%85%d8%b9%d8%b1%d8%b6-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%b7%d9%81%d9%84-%d8%a8%d8%a3%d8%b4%d9%85%d9%88%d9%86/
+- last_modified: 2026-11-28T09:56:27Z
+- status: started
+- status_label: الفعالية اليوم — لم يُعلن موعد انتهائها
+- cancelled: no
+- postponed: no
+
+## Event 2 of 8
 
 - id: 420
 - title: معرض كتب الكريسماس في مكتبة الجامعة الأمريكية (28 نوفمبر – 3 ديسمبر)
@@ -56,12 +88,12 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - listing: external
 - url: https://thesalonculture.com/salon-event/%d9%85%d8%b9%d8%b1%d8%b6-%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d8%b3%d9%85%d8%a7%d8%b3-%d9%81%d9%8a-%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84/
 - last_modified: 2026-11-10T19:57:02Z
-- status: upcoming
-- status_label: فعالية قادمة
+- status: ongoing
+- status_label: فعالية جارية الآن
 - cancelled: no
 - postponed: no
 
-## Event 2 of 7
+## Event 3 of 8
 
 - id: 419
 - title: حكي قصة «يوستفندي مهدي» مع سلمى البنا
@@ -93,7 +125,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 3 of 7
+## Event 4 of 8
 
 - id: 578
 - title: مناقشة رواية The Housemaid
@@ -125,7 +157,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 4 of 7
+## Event 5 of 8
 
 - id: 579
 - title: ورشة مقدمة إلى عالم النشر مع سام أيمن
@@ -157,7 +189,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 5 of 7
+## Event 6 of 8
 
 - id: 572
 - title: مناقشة وتوقيع كتاب «حياة أمنحتب ابن حابو وإرثه» — Aidan Dodson
@@ -189,7 +221,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 6 of 7
+## Event 7 of 8
 
 - id: 421
 - title: حفل جائزة نجيب محفوظ للأدب 2026
@@ -221,7 +253,7 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - cancelled: no
 - postponed: no
 
-## Event 7 of 7
+## Event 8 of 8
 
 - id: 423
 - title: معرض القاهرة الدولي للكتاب — الدورة 58
@@ -244,10 +276,10 @@ Status describes the moment source_generated_at. Times are Cairo time.
 - registration_url: (not published)
 - source_url: https://www.cairobookfair.org.eg/
 - description: الدورة الثامنة والخمسون من معرض القاهرة الدولي للكتاب، من 20 يناير حتى 2 فبراير 2027 في مركز مصر للمعارض الدولية بالتجمع الخامس، وتحل دولة قطر ضيف شرف الدورة.
-- details: الدورة الثامنة والخمسون من معرض القاهرة الدولي للكتاب، من 20 يناير حتى 2 فبراير 2027 في مركز مصر للمعارض الدولية بالتجمع الخامس، وتحل دولة قطر ضيف شرف الدورة. لم تُعلن رسميًا بعد مواعيد الزيارة اليومية ولا أسعار التذاكر ولا البرنامج الثقافي؛ ستُضاف هنا عند إعلانها من الجهة المنظمة. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: الهيئة المصرية العامة للكتاب. الموقع الرسمي للمعرض: https://www.cairobookfair.org.eg/ آخر تحقق من المصدر الرسمي: 10 نوفمبر 2026.
+- details: الدورة الثامنة والخمسون من معرض القاهرة الدولي للكتاب، من 20 يناير حتى 2 فبراير 2027 في مركز مصر للمعارض الدولية بالتجمع الخامس، وتحل دولة قطر ضيف شرف الدورة. شعار الدورة: «مصر تقرأ». شخصيتا المعرض: الدكتور مجدي يعقوب والمفكر الدكتور أحمد لطفي السيد، وشخصيتا معرض كتاب الطفل: الكاتب الراحل محمود سالم والكاتب جار النبي الحلو، وفق ما أعلنته اللجنة العليا للمعرض. حفلات التوقيع: أعلنت الهيئة المصرية العامة للكتاب أن باب حجز حفلات توقيع الكتب للمؤلفين ودور النشر مفتوح حتى 15 ديسمبر 2026، بتقديم نسختين من الكتاب في مقر الهيئة على كورنيش النيل برملة بولاق. مواعيد الزيارة كما نشرتها دار نشر الجامعة الأمريكية بالقاهرة (AUC Press) المشاركة في المعرض: من 10 صباحًا حتى 8 مساءً، وحتى 9 مساءً يومي الخميس والجمعة (صفحة AUC Press). لم تنشر الجهة المنظمة هذه المواعيد على موقعها الرسمي حتى 28 نوفمبر 2026، ولم تُعلن بعد أسعار التذاكر ولا البرنامج الثقافي. فعالية خارجية يُدرجها صالون للتعريف بها، وليست من تنظيم صالون أو برعايته. التنظيم: الهيئة المصرية العامة للكتاب. الموقع الرسمي للمعرض: https://www.cairobookfair.org.eg/ آخر تحقق من المصدر الرسمي: 28 نوفمبر 2026.
 - listing: external
 - url: https://thesalonculture.com/salon-event/%d9%85%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%84%d9%84%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d8%a9-58/
-- last_modified: 2026-11-10T20:31:53Z
+- last_modified: 2026-11-28T09:56:36Z
 - status: upcoming
 - status_label: فعالية قادمة
 - cancelled: no
@@ -256,6 +288,6 @@ Status describes the moment source_generated_at. Times are Cairo time.
 ## END OF INVENTORY
 
 - marker: END OF INVENTORY
-- returned_count: 7
+- returned_count: 8
 - last_event_id: 423
-- snapshot_id: 20261128T045851Z-36f9bb7d
+- snapshot_id: 20261128T100850Z-99679d0a
